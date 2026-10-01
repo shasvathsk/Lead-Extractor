@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Project generated data
+leads.csv
+leads_filtered.csv
+leads_shortlist.csv
+debug.png
+
+# Environments
+venv/
+.env
